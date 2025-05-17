@@ -3,15 +3,8 @@
 
 ### 👨‍🔬 About me
 
-I'm a biotechnologist currently pursuing a MSc in Bioinformatics, blending my passion for biology and technology. 
+I'm a biotechnologist currently pursuing a MSc in Bioinformatics!
 
-In addition to my biological background, I have a deep interest in software development. Because of this, I'm eager to continuously expand my skills in this field in order to advance in my career as a bioinformatician, developing different tools and pipelines. 
-
-🌱 **Currently learning**: 
-  - Machine Learning fundamentals
-  - Web development, to create dynamic applications
-
-💡 *I'm always open to learning new technologies!*
 
 
 ## 💻 My Skills
